@@ -3,7 +3,7 @@ Web-API for [perl.is](https://perl.is/) a free API for random Alan Perlis epigra
 
 ## Example
 ```cr
-require "./ip_stack"
+require "./perl_is"
 
 perl_is = PerlIs.new
 epigram = perl_is.get_random_epigram()
